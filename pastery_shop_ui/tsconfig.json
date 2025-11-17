@@ -6,6 +6,7 @@
   ],
   "compilerOptions": {
     "baseUrl": ".",
+
     "paths": {
       "@/*": ["./src/*"]
     },
@@ -16,4 +17,5 @@
     "noUnusedLocals": false,
     "strictNullChecks": false
   }
+  //   "include": ["src"]
 }
